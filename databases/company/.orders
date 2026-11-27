@@ -1,0 +1,3 @@
+order_id:int:PK
+order_name:string
+order_date:string
